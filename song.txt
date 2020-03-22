@@ -1,3 +1,4 @@
 some text of some song
 second half of this song
 string for first commit in feature
+string for second commit in feature
